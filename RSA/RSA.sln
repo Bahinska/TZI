@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSA", "RSA.csproj", "{0FA1D41E-1050-419C-99DA-49EA791E13F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElGamal", "..\ElGamal\ElGamal.csproj", "{168D936A-DA7F-4830-8662-1E70A69F7B83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FA1D41E-1050-419C-99DA-49EA791E13F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FA1D41E-1050-419C-99DA-49EA791E13F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FA1D41E-1050-419C-99DA-49EA791E13F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FA1D41E-1050-419C-99DA-49EA791E13F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{168D936A-DA7F-4830-8662-1E70A69F7B83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{168D936A-DA7F-4830-8662-1E70A69F7B83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{168D936A-DA7F-4830-8662-1E70A69F7B83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{168D936A-DA7F-4830-8662-1E70A69F7B83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBCAC5EE-D3B4-4EAB-8033-8ABE1131801E}
+	EndGlobalSection
+EndGlobal
